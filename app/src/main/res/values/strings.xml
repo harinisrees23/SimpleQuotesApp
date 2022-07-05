@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SimpleQuotesApp</string>
+    <string name="quote1">"The only person you are destined to become is the person you decide to be.¨ \n – Ralph Waldo Emerson</string>
+    <string name="quote2">“Once you learn to quit, it becomes a habit.¨ \n ― Vince Lombardi Jr</string>
+    <string name="quote3">¨A year from now you may wish you had started today.¨ \n – Karen Lamb</string>
+    <string name="quote4"> ¨Look in the mirror. That’s your competition.¨ \n – John Assaraf</string>
+    <string name="quote5">¨A feeble body weakens the mind.¨ \n – Jean-Jacques Rousseau</string>
+    <string name="quote6">¨Put all excuses aside and remember this: You are capable.¨ \n – Zig Ziglar</string>
+    <string name="quote7"> ¨Reading is to the mind what exercise is to the body.¨ \n - Joseph Addison</string>
+    <string name="quote8">¨Success is what comes after your stop making excuses.¨ \n – Luis Galarza</string>
+    <string name="quote9">¨The pain you feel today will be the strength you feel tomorrow.¨ \n – Arnold Schwarzenegger</string>
+    <string name="quote10">“A champion is someone who gets up when they can’t.” \n - Jack Dempsey</string>
+    <string name="quote11">¨Get comfortable with being uncomfortable!¨ \n – Jillian Michaels</string>
+    <string name="quote12">“No pain, no gain.” \n — Unknown</string>
+</resources>
